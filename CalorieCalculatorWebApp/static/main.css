@@ -1,0 +1,33 @@
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 50px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0;
+}
+
+input[type=]{
+    width: 60%;
+    background-color: YellowGreen;
+    color: White;
+    padding: 20px 20px;
+    border: none;
+    border-radius: 6px;
+    align: center;
+}
+
+a{
+  display: inline-block;
+  background-color: YellowGreen;
+  color: White;
+  padding: 5px 10px;
+}
+
+body {
+    background-color: GhostWhite;
+    padding: 20px;
+}
